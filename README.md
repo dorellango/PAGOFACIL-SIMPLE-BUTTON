@@ -16,3 +16,7 @@ PAGOFACIL_URL_COMPLETE=
 PAGOFACIL_URL_CANCEL=
 APP_URL=
 ```
+
+Puedes hacer uso del archivo de entorno .env.example que se incluye en el repo.
+
+`cp .env.example .env`
