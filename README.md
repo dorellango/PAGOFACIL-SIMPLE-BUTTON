@@ -2,7 +2,7 @@
 
 ### Getting started
 
-Instala las dependencias
+Instalar dependencias
 
 `composer install`
 
