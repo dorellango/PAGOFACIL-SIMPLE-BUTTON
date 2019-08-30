@@ -1,6 +1,12 @@
 # PAGO FACIL SIMPLE PHP
 
+### Getting started
+
+Instala las dependencias
+
 `composer install`
+
+Ingresa tus credenciales/token entregados por pagofacil, así también como las urls de cada respuesta (ex. ngrok).
 
 ```
 PAGOFACIL_TOKEN_SERVICE=
