@@ -28,7 +28,7 @@ $wasValidated = $transaction->validate($_POST);
     <div class="h-screen flex items-center justify-center">
       <div class="flex flex-col font-mono">
           <h1 class="text-2xl mb-4 texr-gray-600 text-center">
-            YOUR TRANSACTION <?php echo $wasValidated ? 'SUCCESS' : 'FAIL'; ?>
+            TRANSACTION <?php echo $wasValidated ? 'SUCCESS' : 'FAIL'; ?>
           </h1>
           <div class="p-4 bg-gray-300 rounded border-dashed border-gray-600">
             <?php var_dump($_POST) ; ?>
