@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pagofacil/php-sdk": "^0.1.0",
+        "vlucas/phpdotenv": "^3.5"
+    }
+}
