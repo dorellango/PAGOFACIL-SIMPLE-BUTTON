@@ -6,7 +6,7 @@ Instala las dependencias
 
 `composer install`
 
-Ingresa tus credenciales/token entregados por pagofacil, así también como las urls de cada respuesta (ex. ngrok).
+Ingresa los tokens entregados por pagofacil, así también como las urls de cada respuesta (ex. ngrok).
 
 ```
 PAGOFACIL_TOKEN_SERVICE=
